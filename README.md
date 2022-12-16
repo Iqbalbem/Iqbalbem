@@ -7,8 +7,9 @@
 - 3. English     = 79
 - Ability = Ms Word and Ms Excel
 - 📫 How to reach me?
-- Phone = 082388311476
-- Mail = iqbalbem17@gmail.com
+- Phone = 
+- Mail = 
+
 
 <!---
 Iqbalbem/Iqbalbem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
